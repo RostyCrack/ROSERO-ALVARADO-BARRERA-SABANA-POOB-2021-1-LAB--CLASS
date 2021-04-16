@@ -2,6 +2,7 @@
 *PARTE 1
 
 -¿Como se lanza una excepción en JAVA? 
+
 Para lanzar una excepción en JAVA se coloca de la siguiente manera: throw new Excepction
 
 -¿Como se propaga una excepción en JAVA?
